@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.85ccf46a.css",
+    "main.js": "/static/js/main.35738182.js",
+    "static/js/787.3a9a6dfb.chunk.js": "/static/js/787.3a9a6dfb.chunk.js",
+    "static/media/Ukulele.jpg": "/static/media/Ukulele.bd821287ab8bc9641f38.jpg",
+    "static/media/Acoustic_Guitar.jpg": "/static/media/Acoustic_Guitar.a30d9f47a10b7423314a.jpg",
+    "static/media/Classical_Guitar.jpg": "/static/media/Classical_Guitar.61b843c6dd617bdd0b59.jpg",
+    "static/media/Electric_Guitar.jpg": "/static/media/Electric_Guitar.546274f7b0feb2791c9b.jpg",
+    "static/media/Bass_Guitar.jpg": "/static/media/Bass_Guitar.23637179764cb40f7d93.jpg",
+    "static/media/backImage.jpg": "/static/media/backImage.59ced4c655f9a2359c6a.jpg",
+    "static/media/guitarLogo.jpg": "/static/media/guitarLogo.fcdf1567be7ff92f2bd5.jpg",
+    "index.html": "/index.html",
+    "main.85ccf46a.css.map": "/static/css/main.85ccf46a.css.map",
+    "main.35738182.js.map": "/static/js/main.35738182.js.map",
+    "787.3a9a6dfb.chunk.js.map": "/static/js/787.3a9a6dfb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85ccf46a.css",
+    "static/js/main.35738182.js"
+  ]
+}
