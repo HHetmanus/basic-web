@@ -1,0 +1,42 @@
+.form {
+    position: absolute;
+    left: 50%;
+    top: 60%;
+    transform: translate(-50%, -50%);
+    display: grid;
+    justify-content: space-around;
+    gap: 30px;
+    min-width: 300px;
+    font-family: 'Sora', sans-serif;
+    background-color: white;
+    border-radius: 5px;
+    opacity: 0.9;
+}
+
+.form p{
+    text-align: center;
+}
+
+.form input{
+    width: 100%;
+    
+    max-width: 200px;
+    max-height: 200px;
+    margin: auto;
+
+}
+
+textarea{
+    width: 100%;
+    max-width: 300px;
+    max-height: 200px;
+}
+
+.form .button{
+    width: -webkit-fill-available;
+    padding: 0.3rem 0rem;
+}
+
+.form .container {
+    max-width: 350px;
+}

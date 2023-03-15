@@ -1,0 +1,37 @@
+.shopTitle {
+    position: relative;
+    padding: 2rem;
+}
+
+.shopTitle h1 {
+    text-shadow: 2px 2px white;
+}
+
+.shop {
+    text-align: center;
+   
+}
+.products {
+    position: absolute;
+    display: grid;
+    grid-template-columns: 30% 30%;
+    justify-content: center;
+    justify-items: center;
+    width: 98%;
+    margin: auto;
+    padding: 10px;
+    column-gap: 50px;
+}
+
+.productImage {
+    width: 300px;
+    margin:auto;
+    background-color: white;
+    margin: 50px;
+    border-radius: 20px;
+    box-shadow: 5px 5px grey;
+}
+
+.productImage:hover {
+    cursor: pointer;
+}
